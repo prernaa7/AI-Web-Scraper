@@ -1,6 +1,6 @@
 # AI-Web-Scraper
 
-An AI-powered web scraper built with Python, Selenium, BeautifulSoup, LangChain, and more!
+An AI-powered web scraper built with Python, Selenium, BeautifulSoup, LangChain, Streamlit, and Ollama
 
 # Features
 
